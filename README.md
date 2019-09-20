@@ -1,8 +1,9 @@
-# calculadora-app
+# calculadora-app :nerd_face:
 
-> Calculadora em Vue.js
+Calculadora em Vue.js, e hospedagem usando os servicos Mircrosoft, Azure!
+> [https://github.com/glaucia86/vuejs-workshop/blob/master/workshop-1/workshop-1.md](Workshop da GLAUCIA sobre esse assunto!! Super intuitivo) 
 
-## Build Setup
+## Build Setup, para fazer rodar localmente
 
 ``` bash
 # install dependencies
@@ -18,4 +19,5 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+> [!TIP]
+> Mais fácil acessar pelo link azure websites, se for rodar local tenta fazer a sua própria!! Prometo que vai ser uma experiência bem divertida :ghost:	
